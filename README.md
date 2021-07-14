@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Preston
-- 👀 I’m interested in Operating System Development
-- 🌱 I’m currently learning C++
+
 
 
 <!---
